@@ -7,7 +7,7 @@ Hi! My name is David Neal. I am a family man, geek, musician, illustrator, inter
 * Follow my silly shenanigans on [Twitter](https://twitter.com/reverentgeek).
 * Check out my code on [GitHub](https://github.com/reverentgeek).
 * View my slides on [SpeakerDeck](https://speakerdeck.com/reverentgeek).
-* View my drawings [here](/portfolio/) and on [Instagram](https://instagram.com/reverentgeek).
+* View my drawings [on my website](https://reverentgeek.com/portfolio/) and on [Instagram](https://instagram.com/reverentgeek).
 * Get down to business on [LinkedIn](https://www.linkedin.com/in/davidneal).
 * Get my [resume](https://app.box.com/s/qu64atp964mi7symkhu5zxza99tr11rg).
 
