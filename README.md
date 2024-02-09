@@ -1,6 +1,6 @@
 # David Neal
 
-Hi! My name is David Neal. I am a family man, geek, musician, illustrator, international speaker, software developer, and [Microsoft MVP](https://mvp.microsoft.com/en-us/mvp/David%20Neal-5001018) living in North GA. I am currently a Principal Developer Evangelist for [Pluralsight](https://pluralsight.com). I was previously the Developer Relations Manager for [ActiveCampaign](https://activecampaign.com), Senior Developer Advocate at [Okta](https://developer.okta.com), Developer Advocate for [LeanKit](https://leankit.com), and spent many years building high-performance, scalable web applications. I run on a high-octane mixture of caffeine and JavaScript, and I'm entirely made of bacon.
+Hi! My name is David Neal. I am a family man, geek, musician, illustrator, international speaker, software developer, and [Microsoft MVP](https://mvp.microsoft.com/en-us/mvp/David%20Neal-5001018) living in North GA. I have been a Developer Advoduck for [MotherDuck](https://motherduck.com), Principal Developer Evangelist for [Pluralsight](https://pluralsight.com), Developer Relations Manager for [ActiveCampaign](https://activecampaign.com), Senior Developer Advocate at [Okta](https://developer.okta.com), Developer Advocate for [LeanKit](https://leankit.com), and spent many years building high-performance, scalable web applications. I run on a high-octane mixture of caffeine and JavaScript, and I'm entirely made of bacon.
 
 * Check out my [blog](https://reverentgeek.com)
 * Contact me at [david@reverentgeek.com](mailto:david@reverentgeek.com).
